@@ -1,0 +1,344 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header { 
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #000000;
+    padding: 0.5rem;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  
+  footer {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #333;
+    padding: 0.5rem;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #000;
+  }
+
+  h1 {
+    margin-left: -960px;
+    margin-top: -1px;
+    color: rgb(32, 182, 132);
+    letter-spacing: -2px; 
+  }
+  .para-1 {
+    margin-left: -680px;
+    margin-top: -45px;
+  }
+  .para-2 {
+    margin-left: -370px;
+    margin-top: -34px;
+  }
+  .para-3 {
+    margin-top: -34px;
+    margin-left: -125px;
+  }
+  .para-4 {
+    margin-top: -33px;
+    margin-left: 93px;
+  }
+  .para-5 {
+    margin-top: -33px;
+    margin-left: 290px;
+  }
+  
+  .para-6 {
+    margin-left: 120px;
+    margin-top: 80px;
+    color: #494949;
+}
+  .verde-de-inicio {
+    color: rgb(32, 182, 132);
+  }
+
+  .texto-1 {
+    margin-left: 120px;
+    margin-top: 50px;
+    color: rgb(32, 182, 132);
+    font-size: 20px;
+    letter-spacing: 1,5px;
+    font-family: 'Helvetica', sans-serif; /* Exemplo de fonte - substitua por uma de sua preferência */
+    font-weight: bold;
+    line-height: 1.5; /* Ajuste conforme necessário */
+  }
+  .texto-2 {
+    margin-left: 120px;
+    margin-top: -50px;
+    color: rgb(32, 182, 132);
+    font-size: 44px;
+    letter-spacing: 1px;
+    font-weight: bold;
+  }
+
+  .imagem-1 {
+    margin-left: 700px;
+    margin-top: -490px;  
+    height: auto; 
+  }
+  .para-7 {
+    color: rgb(32, 182, 132);
+    max-width: 100%;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+   .botao-1 {
+    button {
+      margin-left: 150px;
+      margin-top: 15px;
+      background-color: #494949;
+      color: rgb(255, 255, 255);
+      font-size: 30px;
+      border: none;
+      border-radius: 30px;
+      height: 70px;
+      width: 300px;
+
+  }
+}   
+
+   .h-2{
+    margin-top: 130px;
+    text-align: center;
+    color: rgb(32, 182, 132);
+    font-size: 25px;
+}
+   .para-8 {
+    text-align: center;
+   }
+   .h-3 {
+    margin-top: 100px;
+    color: rgb(117, 117, 117);
+    margin-left: 100px;
+    font-size: 25px;
+    letter-spacing: -1px;
+}
+
+   .destaque {
+    color: rgb(32, 182, 132);
+    font-size: 40px;
+    letter-spacing: -1px;
+}
+   .para-9 {
+    margin-left: 80px;
+}
+   .imagem-2 {
+    margin-top: -300px;
+    margin-left: 700px;
+}
+   .h-4 {
+    margin-top: 200px;
+    margin-left: 680px;
+    color: rgb(117, 117, 117);
+    font-size: 25px;
+    letter-spacing: -1px;
+}
+   .destaque-1 {
+    color: rgb(32, 182, 132);
+    letter-spacing: -1px;
+}
+   .imagem-3 {
+    margin-top: -200px;
+    margin-left: 100px;
+}
+    .para-10 {
+      margin-left: 680px;
+}   
+    .cinza-1 {
+      background-color: #f2f2f2;
+      height: 200px;
+      margin-top: 100px;
+}
+
+    .imagem-4 {
+        margin-left: 250px;
+        margin-top: -140px;
+    }
+    .para-11 {
+        margin-left: 130px;
+        margin-top: 3px;
+        color: rgb(34, 165, 113);
+        font-family: Arial, Helvetica, sans-serif;
+        
+}
+     .imagem-5 {
+        margin-left: 680px;
+        margin-top: -140px;
+}
+    .para-12 {
+        margin-left: 540px;
+        margin-top: 30px;
+        color: rgb(34, 165, 113);
+}
+    .destaque-2 {
+        margin-left: 70px;
+}
+    .imagem-6 {
+        margin-left: 1010px;
+        margin-top: -150px;
+    }
+    .para-13 {
+        margin-left: 920px;
+        margin-top: 20px;
+        color: rgb(34, 165, 113);
+}
+    .verde-1 {
+      background-color: rgb(37, 209, 151);
+      height: 359px;
+      margin-top: 100px;
+}
+    .h-5 {
+      text-align: center;
+      margin-top: -280px;
+      color: white;
+      font-size: 25px;
+      
+}
+    .verde-2 {
+      color: rgb(25, 135, 91);
+}
+    .para-14 {
+      text-align: center;
+      color: white;
+      font-size: 20px;
+      margin-top: 10px;
+}
+    .botao-2 {
+      button {
+      margin-left: 700px;
+      margin-top: 12px;
+      background-color: #494949;
+      color: white;
+      border-radius: 30px;
+      border: none;
+      font-size: 20px;
+      height: 60px;
+      width:320px;
+    }
+}
+    .botao-3 {
+      button {
+        margin-left: 400px;
+        margin-top: 2px;
+        background-color: #494949;
+        color: white;
+        border-radius: 30px;
+        border: none;
+    }
+}
+   
+    .verde-3 {
+      margin-top: 100px;
+      height: 430px;
+      font-size: 18px;
+      background-color: rgb(37, 209, 151);
+      text-align: center;
+      padding: 20px;
+}
+
+.verde-4 {
+  background-color: rgb(37, 209, 151);
+  margin-top: 120px;
+  width: 100%;
+  max-width: 1100px; 
+  height: 500px;
+  color: white;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+}
+      
+     .imagem-7 {
+      margin-top: -480px;
+      margin-left: 450px;
+}
+     .para-15 {
+       color: white;
+       font-size: 25px;
+       text-align: center;
+}
+     .botao-4{
+      button {
+     margin-left: 310px;
+     margin-top: 400px;
+     border-radius: 30px;
+     background-color: #ffffff;
+     color: #494949;
+     border: none;
+     font-size: px;
+     height: 35px;
+     width: 400px;
+     text-align: left;
+    }
+}
+    .butao-2 {
+      button {
+        padding: 10px 15px;
+      font-size: 16px;
+      background-color: #494949;
+      color: white;
+      border: none;
+      border-radius: 30px;
+      margin-top: -1000px;
+      margin-left: 100px;
+    }
+}
+    .cinza-2 {
+      background-color: #f2f2f2;
+      height: 300px;
+      margin-top: 200px;
+      
+}
+     .h-6 {
+      font-size: 20px;
+      letter-spacing: -1px;
+      text-align: center;
+      margin-top: -250px;
+      color: #7b7575;
+}
+    
+      .botao-7 {
+      margin-left: -50px;
+      margin-top: -43px;
+}
+      .para-17 {
+      text-align: center;
+}
+       .verde-5 {
+        background-color: rgb(37, 209, 151);
+       margin-top: 90px;
+       width: 1300px;
+       height: 150px;
+       color: white;
+       font-size: 20px;
+}
+       .para-18 {
+        margin-top: -150px;
+        color: #ffffff;
+        font-size: 25px;
+        margin-left: -460px;
+}
+       .botao-8 button {
+        margin-top: -150px;
+        margin-left: 700px;
+        border-radius: 30px;
+        border: none;
+}
+        .ul-1 {
+        margin-left: -720px;
+}
+        h3{
+        margin-top: 110px;
+        margin-left: -700px;
+}
